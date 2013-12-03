@@ -10,3 +10,4 @@ Material para el webcast _Fácil Async para Windows Apps Store en Microsoft Visu
 
 ####Presentadores
 - [Mariano Converti](https://twitter.com/mconverti), [Southworks SRL](http://blogs.southworks.net/about-us/)
+- [Jonathan Cisneros](https://twitter.com/cisne), [Southworks SRL](http://blogs.southworks.net/about-us/)
