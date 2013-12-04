@@ -1,0 +1,3 @@
+El código original de esta demo fue obtenido del blog de Lucian Wischik (http://blogs.msdn.com/b/lucian/):
+- Post: http://blogs.msdn.com/b/lucian/archive/2013/06/28/talk-the-complete-async-three-talks-from-teched-europe-2013.aspx
+- Drop: http://blogs.msdn.com/cfs-file.ashx/__key/communityserver-blogs-components-weblogfiles/00-00-01-12-06-TalkAsync2013/3731.Async-1-Intro-_5B00_code_5D00_-_2D00_-Lucian-Wischik-_2D00_-TechEd-Madrid-2013.06.25.zip
